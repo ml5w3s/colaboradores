@@ -1,0 +1,69 @@
+[30-Dec-2021 16:53:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/versati1/public_html/projeto/php3/extra/header.php:1) in /home/versati1/public_html/projeto/php3/index.php on line 49
+[30-Dec-2021 16:54:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/versati1/public_html/projeto/php3/extra/header.php:1) in /home/versati1/public_html/projeto/php3/index.php on line 49
+[30-Dec-2021 17:00:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/versati1/public_html/projeto/php3/home.php:2) in /home/versati1/public_html/projeto/php3/app/services/UserService.php on line 53
+[30-Dec-2021 17:10:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/versati1/public_html/projeto/php3/index.php:2) in /home/versati1/public_html/projeto/php3/index.php on line 11
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:10:49 UTC] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php:107
+Stack trace:
+#0 /home/versati1/public_html/projeto/php3/detalhes.php(11): include()
+#1 {main}
+  thrown in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php on line 107
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:11:38 UTC] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php:107
+Stack trace:
+#0 /home/versati1/public_html/projeto/php3/detalhes.php(11): include()
+#1 {main}
+  thrown in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php on line 107
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/versati1/public_html/projeto/php3/app/services/UtilService.php on line 8
+[30-Dec-2021 17:12:06 UTC] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php:107
+Stack trace:
+#0 /home/versati1/public_html/projeto/php3/detalhes.php(11): include()
+#1 {main}
+  thrown in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php on line 107
+[30-Dec-2021 17:16:40 UTC] PHP Parse error:  syntax error, unexpected '']} </option>";' (T_CONSTANT_ENCAPSED_STRING), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php on line 118
+[30-Dec-2021 17:16:42 UTC] PHP Parse error:  syntax error, unexpected '']} </option>";' (T_CONSTANT_ENCAPSED_STRING), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php on line 118
+[30-Dec-2021 17:16:52 UTC] PHP Parse error:  syntax error, unexpected '']} </option>";' (T_CONSTANT_ENCAPSED_STRING), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php on line 118
+[30-Dec-2021 17:17:05 UTC] PHP Parse error:  syntax error, unexpected '']} </option>";' (T_CONSTANT_ENCAPSED_STRING), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/versati1/public_html/projeto/php3/extra/formularioEditaContato.php on line 118
+[30-Dec-2021 17:36:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/versati1/public_html/projeto/php/index.php:2) in /home/versati1/public_html/projeto/php/index.php on line 11
